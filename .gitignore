@@ -1,0 +1,5 @@
+/__pycache__/*
+*.log
+/Full_Videos/*
+/compressed_video/*
+creds.py
